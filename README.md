@@ -1,7 +1,7 @@
 # Inventoryhud for RDX
 
 ## Requirements
-- [redm_extended](https://github.com/Redm-Extended-PT/rdx_core)
+- [rdx_core](https://github.com/Redm-Extended-PT/rdx_core)
 - [cron](https://github.com/RalivTV/cron)
 - [rdx_addonaccount](https://github.com/Redm-Extended-PT/rdx_addonaccount)
 - [rdx_addoninventory](https://github.com/Redm-Extended-PT/rdx_addoninventory)
