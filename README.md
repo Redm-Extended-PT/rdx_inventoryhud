@@ -13,8 +13,8 @@ ensure rdx_inventoryhud
 ```
 
 ## Usage
-Press U for your personal inventory.
-Press ESC to close your personal inventory.
+-Press U for your personal inventory.
+-Press ESC to close your personal inventory.
 
 ### Disable default rdx inventory:
 
