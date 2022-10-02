@@ -2,6 +2,13 @@
 You need to do a couple steps to get it working.
 First you ensure adding the resources to your server.cfg
 
+## Requirements
+- [rdx_core](https://github.com/Redm-Extended-PT/rdx_core)
+- [cron](https://github.com/RalivTV/cron)
+- [rdx_addonaccount](https://github.com/Redm-Extended-PT/rdx_addonaccount)
+- [rdx_addoninventory](https://github.com/Redm-Extended-PT/rdx_addoninventory)
+- [rdx_datastore](https://github.com/Redm-Extended-PT/rdx_datastore)
+
 - Put all folders in your resources folder and ensure:
 ```
 ensure rdx_core
